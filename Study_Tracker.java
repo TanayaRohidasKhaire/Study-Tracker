@@ -222,7 +222,7 @@ class StudyTracker
     }
 }
 
-public class program868
+public class Study-Tracker
 {
     public static void main(String A[])
     {
